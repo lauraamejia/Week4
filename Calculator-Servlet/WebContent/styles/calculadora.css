@@ -1,0 +1,75 @@
+body {
+	font: 11px/24px "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+
+.content {
+	margin-top: -5px;
+	
+	width: 450px;
+	height: 200px;
+	margin-left: auto ;
+  	margin-right: auto ;	
+	
+	border: 1px solid #CCCCCC;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+}
+
+.content h2 {
+	background-color: #BBBBBB;
+	height: 2em;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	vertical-align: middle;
+	font-variant: small-caps; 
+}
+
+tr.botones {
+	text-align: center;
+}
+
+#formularioCalculadora {
+	float: left;
+}
+
+#resultado {
+	text-align: center;
+}
+
+.resultadoCuenta {
+	font-size: xx-large;
+}
+
+div.row {
+	clear: both;
+	width: 335px;
+}
+
+.submit {
+	height: 29px;
+	width: 330px;
+	background: url(images/bg_submit.gif) no-repeat;
+	padding-top: 5px;
+	clear: both;
+} 
+
+.input {
+	background-color: #fff;
+	font: 11px/14px "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #5A698B;
+	margin: 4px 0 5px 8px;
+	padding: 1px;
+	border: 1px solid #8595B2;
+}
+
+.textarea {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	font: 11px/14px "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #5A698B;
+	margin: 4px 0 5px 8px;
+}
